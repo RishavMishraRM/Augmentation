@@ -3,4 +3,4 @@
 Augmentation in computer vision 
 
 1. Augmentor
-2. 
+2. imgaug
