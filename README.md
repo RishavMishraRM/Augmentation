@@ -2,4 +2,4 @@
 
 Augmentation in computer vision 
 
-1. 
+1. Augmentor
